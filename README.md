@@ -7,9 +7,6 @@
   <em>Transforming ideas into elegant solutions, one line at a time!</em>
 </p>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=AshenDeminda&label=Profile%20views&color=0e75b6&style=flat" alt="ashen" /> 
-</p>
 
 <p align="center">
   🎓 Computer Engineering Undergraduate @ University of Ruhuna, Faculty of Engineering<br>
