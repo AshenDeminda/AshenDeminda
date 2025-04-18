@@ -74,7 +74,7 @@
   <a href="mailto:rmashendemindarathnayake@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" height="28" />
   </a>
-  <a href="https://facebook.com/profile.php?id=100075645611716" target="_blank">
+  <a href="https://facebook.com/ashen.deminnda" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" />
   </a>
   <a href="https://twitter.com/AshenDeminda" target="_blank">
