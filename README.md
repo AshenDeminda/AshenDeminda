@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashen Deminda</h1>
-<h3 align="center">I'm an undergraduate passionate about programming, cybersecurity, and software development.</h3>
-
+<h3 align="center">I'm an undergraduate passionate about programming, cybersecurity, machine learning, and software development.</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+  <br>
+  <em>Turning coffee into code, one day at a time!</em>
 </p>
 
 ---
@@ -19,17 +20,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
 </p>
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ashendeminda" target="_blank">
+  <a href="https://linkedin.com/in/ashen-rathnayake-810637319" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" height="28" />
   </a>
-  <a href="mailto:ashendeminda@gmail.com">
+  <a href="mailto:rmashendemindarathnayake@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://facebook.com/ashendeminda" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28" />
+  </a>
+  <a href="https://twitter.com/ashendeminda" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" />
   </a>
 </p>
 
@@ -42,4 +50,10 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/AshenDeminda/AshenDeminda/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AshenDeminda/AshenDeminda/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AshenDeminda/AshenDeminda/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/AshenDeminda/AshenDeminda/output/snake.svg" alt="Snake animation" />
+  </picture>
+</div>
