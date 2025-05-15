@@ -62,7 +62,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/ashen-rathnayake-810637319" target="_blank">
+  <a href="www.linkedin.com/in/ashen-deminda-rathnayake" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" height="28" />
   </a>
   <a href="mailto:rmashendemindarathnayake@gmail.com">
