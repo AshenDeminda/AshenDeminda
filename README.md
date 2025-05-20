@@ -80,10 +80,11 @@
 </p>
 
 ---
-
+/*
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AshenDeminda&show_icons=true&theme=dracula&locale=en" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AshenDeminda&layout=compact&theme=dracula&langs_count=6" height="150" />
 </div>
+*/
 
 ---
